@@ -1,0 +1,49 @@
+{
+  "id": "699e07b7-9857-4c0d-b813-f3d54ab56934",
+  "empresa": "NOMBRE EMPRESA S.A.",
+  "sector": "(opcional)",
+  "descripcion_empresa": null,
+  "fuente_tipo": "scvs",
+  "fuente_nombre": "Superintendencia de Compañías, Valores y Seguros",
+  "plataforma": "offline",
+  "periodo": null,
+  "evento_fecha": null,
+  "informacion": null,
+  "nlp": {
+    "sentiment": null,
+    "language": null,
+    "keywords": []
+  },
+  "datos_numericos": {
+    "ventas": 217510.87,
+    "pasivos": 59797.77,
+    "activos_corrientes": 112790.39,
+    "pasivos_corrientes": 59797.77,
+    "activos_financieros": 96310.05,
+    "patrimonio_neto": 114424.62,
+    "capital": 800.0,
+    "ganancias_acumuladas": 89174.02,
+    "ganancia_neta_periodo": 887.95
+  },
+  "datos_sociales": {
+    "seguidores": null,
+    "likes": null,
+    "comentarios": null,
+    "shares": null,
+    "posts_count": null,
+    "rating": null
+  },
+  "tags": [
+    "finanzas",
+    "scvs"
+  ],
+  "url": "https://www.supercias.gob.ec/",
+  "quality_flags": {
+    "lang_conf": null,
+    "ocr": null,
+    "review_verified": null,
+    "human_validated": true
+  },
+  "fetched_at": "2025-08-09T01:32:26.135744Z",
+  "updated_at": "2025-08-09T01:32:26.135762Z"
+}
